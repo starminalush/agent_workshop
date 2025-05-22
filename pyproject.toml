@@ -17,6 +17,10 @@ tiktoken = "^0.9.0"
 faiss-cpu = "^1.11.0"
 langchain-openai = "^0.3.17"
 langgraph = "^0.4.5"
+smolagents = "^1.16.1"
+nbqa = "^1.9.1"
+black = "^25.1.0"
+isort = "^6.0.1"
 
 
 [build-system]
